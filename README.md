@@ -8,7 +8,10 @@
 Welcome to the **Career Campus Web App  GitHUb Repository**! This project is built using Firebase services to handle authentication, database operations, and cloud functions.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Image](https://github.com/Ishita95-harvad/CAREER--CAMPUS--RESUME--SCREENER-----RECOMMENDATION-Firebase-App/blob/main/Screenshot%20(716).png)
+## 🖼️ Career Campus Pro+ – Visual Preview
+
+![Career Campus Pro+ UI](https://github.com/Ishita95-harvad/CAREER-CAMPUSS-PRO-/blob/main/assets/ChatGPT%20Image%20Aug%204,%202025,%2007_36_09%20PM.png?raw=true)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
